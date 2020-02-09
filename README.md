@@ -1,2 +1,2 @@
-# RGB-Colour-Game
-HTML and CSS project
+# RGB Colour Game
+![screenshot of the app](capture.png)
